@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imad Ettamen</h1>
 <h3 align="center">Software Engineering student with experience in networking, web development, version control tools, programming languages, virtualization and system administration</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imadett88&label=Profile%20views&color=0e75b6&style=flat" alt="imadett88" /> </p>
+
 
 - 💬 Ask me about **< Networking ,virtualization ,Web Dev ,system administration />**
 
