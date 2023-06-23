@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imad Ettamen</h1>
-<h3 align="center">Software Engineering student with experience in networking, web development, version control tools, programming languages, virtualization and system administration</h3>
+<h3 align="center">Software Engineering student</h3>
 
 
 
-- 💬 Ask me about **< Networking ,virtualization ,Web Dev ,system administration />**
+- 💬 Ask me about **< Networking ,virtualization ,Web Dev ,Mobile Dev ,DevOps ,system administration />**
 
 - 🌱 I am **currently learning and always discovering new technologies**
 
