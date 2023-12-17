@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imad Ettamen</h1>
+<h3 align="center">Software Engineering Student</h3>
+
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Imad+Ettamen;Software+Engineer+;Microservices+Enthusiast+" alt="Typing SVG" /></a></div>
 
 # 💫 About Me:
