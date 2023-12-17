@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Imad Ettamen" />
+</h1>
+
 # 💫 About Me:
 🌱 I’m currently learning and always discovering new technologies<br><br>📫 How to reach me imadettamen18@gmail.com
 
