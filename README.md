@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Imad Ettamen" />
+  <img src="https://raw.githubusercontent.com/imadett88/imadettamen/master/name.svg" alt="Imad Ettamen" />
 </h1>
 
 # 💫 About Me:
