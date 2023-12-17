@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/imadett88/imadettamen/master/name.svg" alt="Imad Ettamen" />
-</h1>
+<h1 align="center">Hi 👋, I'm Imad Ettamen</h1>
+<h3 align="center">Software Engineering Student</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning and always discovering new technologies<br><br>📫 How to reach me imadettamen18@gmail.com
