@@ -4,6 +4,12 @@
 # 💫 About Me:
 🌱 I’m currently learning and always discovering new technologies<br><br>📫 How to reach me imadettamen18@gmail.com
 
+<div align="center">
+  
+  ![Developer Boy](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+  
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imadettamen88) 
