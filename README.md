@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imad Ettamen</h1>
 <h3 align="center">From Morocco 🤞</h3>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F78728FF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a></div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Imad+Ettamen!;" />
+</h1>
 
 # 💫 About Me:
 🌱 I’m currently learning and always discovering new technologies<br><br>📫 How to reach me imadettamen18@gmail.com<br><br>💬 Let's chat about software architecture, and the art of clean code<br><br>
