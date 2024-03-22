@@ -1,6 +1,7 @@
-<h1 align="center" style="color: #7FFF00">
+<h1 style="color: #7FFF00">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Imad+Ettamen!;+From+Morocco+🤞" />
 </h1>
+
 
 # 💫 About Me:
 🌱 I’m currently learning and always discovering new technologies<br><br>📫 How to reach me imadettamen18@gmail.com<br><br>💬 Let's chat about software architecture, and the art of clean code<br><br>
