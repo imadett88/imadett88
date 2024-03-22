@@ -45,14 +45,24 @@
 </div>
 
 <br/>
+
+
+
+
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  ![](https://github-readme-stats.vercel.app/api?username=imadett88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imadett88&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadett88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <br/>
+</div>
 
+<br/><br/>
 
 <hr/>
 
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadett88&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
