@@ -17,7 +17,7 @@
 
  💬 Let's chat about software architecture, and the art of clean code
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
 
  </div>
 
