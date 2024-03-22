@@ -64,7 +64,7 @@
 <br>
 <div align=center>
 <div align=center>
- <img width=390 src="[https://github-readme-streak-stats-salesp07.vercel.app/?user=imadett88&count_private=true&theme=react&border_radius=10](https://github-readme-stats.vercel.app/api?username=imadett88&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)https://github-readme-stats.vercel.app/api?username=imadett88&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/>
+ <img width=390 src="https://github-readme-stats.vercel.app/api?username=imadett88&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
 
 </div>
 
