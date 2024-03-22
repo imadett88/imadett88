@@ -44,6 +44,20 @@
     <img src="https://skillicons.dev/icons?i=dotnet,spring,express,java,cs,javascript,typescript,react,angular,flutter,docker,kafka,grafana,git" />
 </div>
 
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 Contributions </h2>
+  <br>
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/imadett88/imadett88/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadett88&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
