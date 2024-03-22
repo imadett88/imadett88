@@ -50,6 +50,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,spring,express,java,cs,javascript,typescript,react,angular,flutter,docker,kafka,grafana,git" />
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb" />
 </div>
 
 <br/>
