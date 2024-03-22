@@ -33,11 +33,13 @@
   </a>
 </div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imadettamen88) 
+ <hr/>
 
-# 💻 Tech Stack:
+ 
+
+<h2 align="center"> 💻 Tech Stack </h2>
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,spring,express,java,cs,javascript,typescript,react,angular,flutter,docker,kafka,grafana,git" />
 </div>
