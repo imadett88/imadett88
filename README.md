@@ -19,7 +19,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,spring,express,nodejs,java,cs,javascript,typescript,react,redux,angular,flutter," />
-    <img src="https://skillicons.dev/icons?i=nestjs,graphql,rabbitmq,kafka,docker,grafana,azure,git,linux,firebase,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,nestjs,graphql,rabbitmq,kafka,docker,grafana,azure,git,linux,firebase,mongodb,mysql" /><br>
 </div>
 
 # 📊 GitHub Stats:
