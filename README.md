@@ -3,7 +3,9 @@
 </h1>
 
 
-# 💫 About Me:
+<h1 align="Center>
+  # 💫 About Me:
+</h1>
 🌱 I’m currently learning and always discovering new technologies<br><br>📫 How to reach me imadettamen18@gmail.com<br><br>💬 Let's chat about software architecture, and the art of clean code<br><br>
 <div align="center">
   
