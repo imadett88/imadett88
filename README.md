@@ -18,8 +18,8 @@
 # 💻 Tech Stack:
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,express,nodejs,java,csharp,javascript,typescript,react,angular" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,express,nodejs,java,cs,javascript,typescript,react,redux,angular,flutter," />
+    <img src="https://skillicons.dev/icons?i=nestjs,graphql,rabbitmq,kafka,docker,grafana,azure,git,linux,firebase,mongodb,mysql" /><br>
 </div>
 
 # 📊 GitHub Stats:
