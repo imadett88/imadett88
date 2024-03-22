@@ -4,6 +4,10 @@
 
  <hr/>
 
+<img src="https://ik.imagekit.io/dresma/Dresma_Library/Senior-Software_1Yc9yhzGz.gif">
+
+ <hr/>
+
 <h3 align="center">Software software Engineer 🧑‍💻</h3>
 
 <br/>
