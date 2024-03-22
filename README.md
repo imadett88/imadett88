@@ -4,7 +4,10 @@
 
  <hr/>
 
-<img src="https://ik.imagekit.io/dresma/Dresma_Library/Senior-Software_1Yc9yhzGz.gif">
+<div style="text-align: center;">
+    <img src="https://ik.imagekit.io/dresma/Dresma_Library/Senior-Software_1Yc9yhzGz.gif" style="max-width: 50%; height: auto;">
+</div>
+
 
  <hr/>
 
