@@ -46,7 +46,7 @@
  
 
 <h2 align="center"> 💻 Tech Stack </h2>
-<br/>
+
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dotnet,spring,express,java,cs,javascript,typescript,react,angular,flutter,docker,kafka,grafana,git" />
@@ -60,12 +60,4 @@
 
 <hr/>
 
-
-
-
-
-
-
-
-<br/>
 
