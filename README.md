@@ -19,7 +19,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning and always discovering new technologies
 
