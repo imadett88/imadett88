@@ -22,7 +22,9 @@
  
  🌱 I’m currently learning and always discovering new technologies
 
- 💬 Let's chat about software architecture, and the art of clean code
+ 👩‍💻 Let's chat about software architecture, and the art of clean code
+
+ 💬 How to reach me => imadettamen18@gail.com
 
 
 
@@ -31,10 +33,6 @@
   <hr/>
   
 
-<div align="center"> 
-  <a href="imadettamen18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/imadettamen88/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
