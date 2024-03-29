@@ -24,7 +24,7 @@
 
  👩‍💻 Let's chat about software architecture, and the art of clean code
 
- 💬 How to reach me => imadettamen18@gail.com
+ 💬 How to reach me => imadettamen18@gmail.com
 
 
 
