@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Imad</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Imad+Ettamen!;+From+Morocco+🤞" />
+</h1>
 
-<hr/>
-
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;From+Morocco+🤞" alt="Typing SVG" /></a></div>
-
+ <hr/>
  <hr/>
 
 <p align="center">
@@ -34,7 +33,7 @@
 
   <hr/>
   
-
+<div align="center"> 
   <a align="center" href="https://www.linkedin.com/in/imadettamen88/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
