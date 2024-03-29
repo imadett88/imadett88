@@ -3,7 +3,6 @@
 </h1>
 
  <hr/>
- <hr/>
 
 <p align="center">
   <img src="https://ik.imagekit.io/dresma/Dresma_Library/Senior-Software_1Yc9yhzGz.gif" width="400">
